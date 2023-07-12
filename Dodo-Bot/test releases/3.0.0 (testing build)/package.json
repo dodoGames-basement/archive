@@ -1,0 +1,24 @@
+{
+  "name": "Dodo-Bot",
+  "version": "0.0.0",
+  "description": "testing releases of Dodo Bot not recommended for public use",
+  "main": "index.js",
+  "dependencies": {
+    "hytescript.js": "4.0.0-dev-8",
+    "discord-gamecord": "^2.1.0",
+    "leaf-utils": "^1.1.3",
+    "discord.js-akinator": "^4.0.1"
+  },
+  "devDependencies": {
+  "node": "^18.12.0"
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=16.x"
+  },
+  "author": "dodo",
+  "license": "ISC"
+}
